@@ -1,0 +1,10 @@
+{
+	"name":"Ctyann Enhanced Machines",
+	"author":"Ctyann",
+	"version":"0.0.1",
+	"title":"Ctyann Enhanced Machines",
+	"description":"We will add a cheat grade reinforcement machine at a reasonable cost.",
+	"homepage":"nope",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.0"]
+}
