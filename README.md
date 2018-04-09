@@ -2,7 +2,7 @@
 factorioのmodです。エンドコンテンツの機械を追加します。
 It is mod for factorio. Add machines for end content.
 
-製作予定
+製作予定<br>
 ・強化採掘機MK1～
 ・強化電気炉MK1～
 ・強化組立機MK1～
